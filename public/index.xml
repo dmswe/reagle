@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reagle Construction</title>
+    <link>https://reagleconstruction.com/</link>
+    <description>Recent content on Reagle Construction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://reagleconstruction.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Retaining Wall</title>
+      <link>https://reagleconstruction.com/projects/creating-a-new-theme/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://reagleconstruction.com/projects/creating-a-new-theme/</guid>
+      <description>Introduction Retaining wall build in the South Hills of Pittsburgh.
+Before After There are a few concepts that you need to understand before creating a theme.</description>
+    </item>
+    
+    <item>
+      <title>About Reagle Construction</title>
+      <link>https://reagleconstruction.com/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://reagleconstruction.com/about/</guid>
+      <description>Reagle Construction is a homegrown Pittsburgh based company located in Mount Washington.
+We specialize in
+ bathroom/kitchen decks parameter fences retaining walls  Contact us about any projects you have in mind. We do it all!
+phone 714.473.0627 email reagleconstructionllc@gmail.com  </description>
+    </item>
+    
+  </channel>
+</rss>
