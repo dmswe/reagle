@@ -3,7 +3,7 @@ title = "About Reagle Construction"
 date = "2014-04-09"
 +++
 
-Reagle Construction is a **homegrown Pittsburgh based company** located in Mount Washington.
+Reagle Construction is a **local Pittsburgh company** located in Mount Washington.
 
 We specialize in 
 
